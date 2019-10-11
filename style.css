@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(102, 196, 217);
+    margin:0;
+    font-family: sans-serif;
+}
+
+div.main{
+    width:500px;
+    margin:auto;
+    background-color:white;
+    padding:50px;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+h1{
+    color:rgb(102, 196, 217);
+    font-variant:small-caps;
+    font-size:40px;
+}
+
+h2{
+    font-weight:bold;
+}
+
+button{
+    padding:5px 15px;
+    background-color:rgb(102, 196, 217);
+    color:white;
+    margin-bottom:10px;
+}
+
+div.box{
+    border:1px solid orange;
+}
+
+.last{
+    font-size:20px;
+}
+
+p.pad{
+    padding-bottom:0px;
+}
+
+li{
+    padding-top:10px;
+}
+
+p{
+    padding:15px;
+    padding-right:20px;
+    padding-left:20px;
+}
+
+span{
+    font-style:italic;
+}
